@@ -84,7 +84,7 @@ author:
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "San Diego, California"
-  employer         :
+  employer         : "https://airsea.ucsd.edu/"
   pubmed           : 
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
